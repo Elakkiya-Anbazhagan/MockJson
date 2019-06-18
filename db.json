@@ -1,18 +1,31 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "username": "ela",
+      "email": "elakkiyamoni@gmail.com",
+      "password": "ela",
+      "status": "Active",
+      "role": "admin",
+      "id": 5
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "username": "ara",
+      "email": "ara",
+      "password": "123456",
+      "status": "Active",
+      "role": "sales manager",
+      "id": 6
+    },
+    {
+      "username": "ft",
+      "email": "t",
+      "password": "t",
+      "status": "Inactive",
+      "role": "t",
+      "id": 7
     }
   ],
+  "comments": [],
   "profile": {
     "name": "typicode"
   }
